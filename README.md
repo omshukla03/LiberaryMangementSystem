@@ -36,4 +36,4 @@ A simple **Library Management System** built with **Java** as the backend langua
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/omshukla03/library-management-system.git
